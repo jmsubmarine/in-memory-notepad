@@ -1,5 +1,5 @@
 # Notepad CLI Application
-A simple and intuitive CLI tool for managing notes. 📝
+📝 A simple and intuitive CLI tool for managing notes.
 
 This program allows you to create, list, update, delete, and clear notes with ease. It also includes input validation to ensure correct usage.
 
